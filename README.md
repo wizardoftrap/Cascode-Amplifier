@@ -26,4 +26,4 @@ This repository contains the design and simulation of a **Cascode Amplifier**, *
   - `Beta_Multiplier`
 
 ### Simulation Results
-- Gain, bandwidth, and power consumption for each circuit are provided in the results folder. These results show the effect of scaling down the technology node.
+- Gain, bandwidth, and power consumption for each circuit are provided in the report file. These results show the effect of scaling down the technology node.
